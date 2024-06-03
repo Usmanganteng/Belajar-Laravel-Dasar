@@ -2,6 +2,29 @@
 ---
 > - Laravel adalah kerangka kerja PHP sumber terbuka yang populer untuk pengembangan aplikasi web. Dengan menyediakan fitur-fitur seperti routing, manajemen database, dan sistem templating, Laravel membantu pengembang membangun aplikasi web dengan cepat dan efisien. Konsep pemrograman berbasis MVC digunakan untuk memisahkan logika bisnis dari presentasi. Dengan dokumentasi yang lengkap dan komunitas yang besar, Laravel menjadi pilihan yang populer bagi pengembang web.
 ---
+<b>Cara menginstallnya</b>
+---
+> #### PHP
+> - Versi 7.4.33
+> #### LARAVEL
+> stap 1
+>  ```
+>  git clone git@github.com:Usmanganteng/Belajar-Laravel-Dasar.git
+> ```
+> stap 2
+> ```
+> Npm Instal
+> ```
+> stap 3
+> ```
+>  Npm Update
+> ```
+> stap 4
+> ```
+> php artisan serve
+> ```
+
+---
 <b>POINT UTAMA</b>
 ---
 > #### Git 
