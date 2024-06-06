@@ -7,23 +7,30 @@
 > #### PHP
 > - Versi 7.4.33
 > #### LARAVEL
-> stap 1
+> - Versi 8.1.10
+---
+<b>Cara Menjalankan/Run Project ini</b>
+---
+> - clone
 >  ```
->  git clone git@github.com:Usmanganteng/Belajar-Laravel-Dasar.git
+>  git clone ggit@github.com:Usmanganteng/Belajar-Laravel-Dasar.git
 > ```
-> stap 2
+>  - npm
 > ```
-> Npm Instal
+> npm Instal
 > ```
-> stap 3
 > ```
->  Npm Update
+> npm update
 > ```
-> stap 4
+> - Database
+> ```
+> php artisan migrate
+> ```
+> - Run
 > ```
 > php artisan serve
 > ```
-
+---
 ---
 <b>POINT UTAMA</b>
 ---
