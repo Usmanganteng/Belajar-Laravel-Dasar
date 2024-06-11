@@ -22,15 +22,10 @@
 > ```
 > npm update
 > ```
-> - Database
-> ```
-> php artisan migrate
-> ```
 > - Run
 > ```
 > php artisan serve
 > ```
----
 ---
 <b>POINT UTAMA</b>
 ---
